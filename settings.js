@@ -1,6 +1,6 @@
 global.bankname = "bot"
 
-global.banknumber = "242057410576"
+global.banknumber = "242041029122"
 
 global.bankowner = "patron"
 
